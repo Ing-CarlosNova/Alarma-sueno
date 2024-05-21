@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=TwFZ4BJUX5c
+https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/
+https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/
+https://www.youtube.com/watch?v=uN8SYfGwYVw
+https://www.youtube.com/watch?v=3GymExBkKjE
+https://wiki.dfrobot.com/SKU_DFR0868_Beetle_ESP32_C3#target_7
+https://www.dfrobot.com/product-2566.html
+
+
+configuración tener en cuenta
+https://naylampmechatronics.com/blog/45_tutorial-mpu6050-acelerometro-y-giroscopio.html
